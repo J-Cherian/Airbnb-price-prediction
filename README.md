@@ -24,5 +24,5 @@ git clone https://github.com/J-Cherian/Airbnb-price-prediction.git
 ```
 2. Navigate to the project directory
 ```sh
-cd cd Airbnb-price-prediction
+cd Airbnb-price-prediction
 ```
